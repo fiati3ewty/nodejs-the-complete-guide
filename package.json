@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "name": "nodejs-the-complete-guide",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start2": "nodemon app2.js"
+  },
+  "author": "Koravit Hirunrat",
+  "license": "MIT",
+  "description": ""
+}
